@@ -1,3 +1,4 @@
+# 此库备份，防止大佬的库删除。此库fork于https://github.com/HaoOuBa/Joe 
 ## Joe
 
 > 一款基于 Typecho 博客的双栏极致优化主题
